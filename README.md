@@ -3,8 +3,7 @@
 Essa aplicação foi o projeto final desenvolvido no curso [The Complete JavaScript Course 2022: From Zero to Expert!
 ](https://www.udemy.com/course/the-complete-javascript-course/)
 
-
-![Screenshot](app.png)
+![Screenshot](appIMG.png)
 
 ## FAQ
 
