@@ -15,19 +15,19 @@ Fundamentos do javascript, manipulação de eventos DOM, Funções, Arrays (forE
 
 Buscar receitas através de um API e manipular os dados para exibir as receitas, seus ingredientes e forma de preparo, além de possibilitar o usuário a salvar suas receitas favoritas, como também criar novas receitas. Tudo isso funcionando através do navegador, salvando as receitas do usuário no localstorage.
 
-### 4) Como usar esse app ?
+### 3) Como usar esse app ?
 Na barra de pesquisar você digitar o nome de uma receita (em inglês por conta da API), por exemplo **PIZZA** ou **PASTA**, depois de pesquisado a receita, no canto esquerdo da tela, irá aparecer uma lista das receitas que você buscou, ao clicar em alguma delas, ela será exibida no canto direito da tela, com os ingredientes e dados de preparo, você pode aumentar ou diminuir o número de pessoas para a receita, com isso os ingredientes serão atualizados automaticamente.
 
 Outra funcionalidade da aplicação é criar sua própria receita, no canto superior direito ao clicar no botão escrito **ADD RECIPE** aparecer um formulário para ser preenchido com dados da receita. Depois de tudo preenchido, basta clicar no botão **UPLOAD**, esperar a mensagem de confirmação e sair do formulário clicando no **X**.
 
 Por fim, você pode adicionar receitas aos seus marcadores, ao clicar no botão superior direito escrito **BOOKMARKS** ou então no botão abaixo do nome da receita que você selecionou
 
-### 3) Como rodar a aplicação ?
+### 4) Como rodar a aplicação ?
 
 Tendo o npm instalado em sua máquina, basta rodar o comando npm install para instalar todas as dependências da aplicação. 
 Depois use o comando npm start, para iniciar um servidor local para exibir a aplicação no seu navegador.
 
-### 4) Posso usar esse projeto ?
+### 5) Posso usar esse projeto ?
 
 Como instruído no curso, esse é um projeto somente para fins de portfólio. **Não é permitido** usar esse projeto para cursos/vídeos/artigos.
 
